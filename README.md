@@ -12,3 +12,8 @@ For maintained Terraform and cloud-platform examples, review:
 - [Terraform Security Policy Gate](https://github.com/haqueamir70-coder/terraform-security-policy-gate)
 
 No production deployment or validation result is claimed by this repository.
+
+
+## Architecture and interview guide
+
+See [docs/README.md](docs/README.md) for the Terraform variables learning diagram and interview questions.
