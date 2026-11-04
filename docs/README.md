@@ -71,3 +71,7 @@ Terraform prompts interactively or errors in non-interactive automation if a req
 ### 10. Answer
 
 Move repeated resources into a child module, define typed inputs and outputs, pin provider versions, add examples, and validate with fmt/init/validate and tests.
+
+## Complete zero-to-hero guide
+
+See [ZERO-TO-HERO.md](./ZERO-TO-HERO.md) for the business scenario, architecture walkthrough, tool-by-tool explanations, implementation sequence, practical commands, troubleshooting playbook and additional scenario-based interview questions with answers.
